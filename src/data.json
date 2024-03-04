@@ -1,0 +1,53 @@
+[
+    {
+        "small-banner" : "https://th.bing.com/th/id/OIP.WtizHhmm-yI1SvoNP2tFpwHaK-?w=115&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "name" : "Bright",
+        "year-director" : "2017, David Ayer",
+        "duration" : "117 min",
+        "genre" : "Action, Fantasy, Thriller",
+        "summary" : "Set in the world where fantasy creatures live side by side with humans.A human cop is forced to work with an orc to find a weapon everyone is prepared to kill for.",
+        "main-banner" : "https://image.tmdb.org/t/p/original/yqlVVYZek754Yf8p4smdBF1piDN.jpg"
+    },
+
+    {
+        "small-banner" : "https://th.bing.com/th/id/OIP.JdfWjoz65o7UEdor2uh71wHaLH?w=204&h=306&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "name" : "Tomb Raider",
+        "year-director" : "2018, Roar Uthaug",
+        "duration" : "125 min",
+        "genre" : "Action, Adventure, Fantasy",
+        "summary" : "Lara Croft, the fiercely independent daughter of a missing adventurer, must push herself beyond her limits when she discovers the island where her father disappeared.",
+        "main-banner" : "https://th.bing.com/th/id/OIP.PrJkTxHvk1EVNRRQaygqQAHaEo?rs=1&pid=ImgDetMain"
+    },
+
+    {
+        "small-banner" : "https://th.bing.com/th/id/OIP.Ng6U-9RjEdbimMwczbZWKgHaLH?w=115&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "name" : "Blade Runner",
+        "year-director" : "2017, Denis Villeneuve",
+        "duration" : "164 min",
+        "genre" : "Action, Drama, Mystery",
+        "summary" : "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+        "main-banner" : "https://th.bing.com/th/id/OIP.1q3J_LR0KeqzrJRYVdhWtgHaEo?w=260&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+
+    {
+        "small-banner" : "https://th.bing.com/th/id/OIP.uiaj_IMaC7h3NoieAhcmVwHaLG?w=120&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "name" : "Interstellar",
+        "year-director" : "2014, Christopher Nolan",
+        "duration" : "169 min",
+        "genre" : "Adventure, Drama, Sci-Fi",
+        "summary" : "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+        "main-banner" : "https://th.bing.com/th/id/OIP.JymutQOaBSxOAXmuij9g-wHaEK?w=303&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    },
+
+    {
+        "small-banner" : "https://th.bing.com/th/id/OIP.3XNFxrH7_Uj8CFfx9e09_gHaKc?w=124&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+        "name" : "Source Code",
+        "year-director" : "2011, Duncan Jones",
+        "duration" : "93 min",
+        "genre" : "Action, Drama, Mystery",
+        "summary" : "A soldier wakes up in someone else's body and discovers he's part of an experimental government program to find the bomber of a commuter train within 8 minutes",
+        "main-banner" : "https://th.bing.com/th/id/OIP.zyAuZ38XketdMoWfh2Sp9wHaEo?w=274&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+    }
+
+    
+]
